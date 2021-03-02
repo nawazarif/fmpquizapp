@@ -1,0 +1,42 @@
+body{
+    background-color: #eff7f6;
+}
+.custombtn{
+padding: 10px;
+margin: 5px;
+width: 100%;
+background-color: #ffe5d9;
+color: black;
+border: none;
+border-radius: 8px;
+box-shadow: 0 5px 5px rgba(0, 0, 0, .2);
+font-size: 1em;
+font-weight: bold;
+height: 100%;
+}
+.nextbtn{
+    padding: 10px 30px;
+margin: 5px;
+background-color: #ffe5d9;
+color: black;
+border: none;
+border-radius: 8px;
+box-shadow: 0 5px 5px rgba(0, 0, 0, .2);
+font-size: 1em;
+font-weight: bold;
+}
+
+.custombtn:hover{
+    background-color: #fdc8af;
+}
+.nextbtn:hover{
+    background-color: #fdc8af;
+
+}
+.ptagshow{
+    font-size: 50px;
+    font-weight: bold;
+}
+#headar{
+    width: 100%;
+}
